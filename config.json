@@ -1,0 +1,10 @@
+{
+  "quality_threshold": 84,
+  "signal_cooldown_sec": 300,
+  "safe_scan_delay": 2.0,
+  "min_payout": 70,
+  "network_retry_seconds": 60,
+  "auto_jump_enabled": false,
+  "auto_jump_cooldown_sec": 120,
+  "auto_jump_min_interval": 90
+}
