@@ -6,5 +6,7 @@
   "network_retry_seconds": 60,
   "auto_jump_enabled": false,
   "auto_jump_cooldown_sec": 120,
-  "auto_jump_min_interval": 90
+  "auto_jump_min_interval": 90,
+  "telegram_startup_message": true,
+  "telegram_startup_text": "PO Watchdog V3.3 STARTED | DEMO monitoring active | Remote config loaded | DevTools 9334"
 }
